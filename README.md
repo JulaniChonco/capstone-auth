@@ -31,6 +31,3 @@ Frontend runs on http://localhost:3000 and communicates with backend.
 - POST /api/register → create user (default role: normal) + return JWT
 - POST /api/login → authenticate and return JWT
 - React frontend with forms for Register + Login, feedback displayed
-
----
-Proceed to **Compulsory Task 2** by adding endpoints for viewing/adding/updating credentials, with JWT verification and permission checks.
